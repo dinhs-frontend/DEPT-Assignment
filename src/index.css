@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "TekoRegular";
+    src: local("TekoRegular"), url("./compontenten/fonts/Teko/Teko-regular.ttf") format("truetype");
+    font-weight: "regular";
+}
